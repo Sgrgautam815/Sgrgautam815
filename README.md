@@ -129,8 +129,6 @@
 </div>
 
 - **Whiteboard-Ai:** Collaborative whiteboard project with AI-related functionality.
-- **AI Fake News Detection System:** Machine-learning project focused on classifying news as real or fake.
-- **Online Complaint Ticket Management System:** Campus-focused complaint submission, tracking, and escalation system.
 - **DSA Practice:** Java-based problem-solving practice covering data structures and algorithms.
 
 <!-- Add repository links when the corresponding projects are published. -->
